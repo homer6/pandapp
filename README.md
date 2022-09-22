@@ -14,3 +14,11 @@ make install
 cat install_manifest.txt
 ./bin/pandapp_tests
 ```
+
+
+
+## Dev Loop
+```
+make && ./src/pandapp
+
+```
